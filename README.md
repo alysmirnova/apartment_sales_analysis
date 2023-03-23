@@ -34,4 +34,4 @@
 2. ```Decision Tree Regressor```
 3. ```Random Forest Regressor```
 
-Наилучший результат показал ```Random Forest Regressor``` — 0.679 по метрике \\( R^2 \\).
+Наилучший результат показал ```Random Forest Regressor``` — 0.679 по метрике R^2.
